@@ -32,7 +32,7 @@ A comprehensive Data Structures and Algorithms (DSA) problem-tracking platform t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/dsa-problem-tracker.git
+   git clone https://github.com/himanchalkaushale/DSA-Companion.git
    cd dsa-problem-tracker
    ```
 
